@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I am Arpit
+💻 Aspiring Software Engineer
+📍 India
+🌱 Currently learning React, Python & Data Structures
+🚀 Building projects to improve one step at a time.
 
-<!--
-**arpitNain-coder/arpitNain-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:
+- 🎓 Engineering student passionate about software development
+- 💻 Love building web applications and solving programming problems
+- 🌱 Currently learning React, Python and modern web development
+- 🎯 Goal: Become a skilled Full Stack / Software Engineer
+- ⚡ Believe in learning by building real projects
 
-Here are some ideas to get you started:
+Tech Stack:
+Languages
+C++
+C
+Python
+JavaScript
+HTML
+CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+React
+Vite
+
+Tools
+Git
+GitHub
+VS Code
