@@ -1,8 +1,7 @@
 Hi, I am Arpit
-💻 Aspiring Software Engineer
-📍 India
-🌱 Currently learning React, Python & Data Structures
-🚀 Building projects to improve one step at a time.
+- Aspiring Software Engineer
+- Currently learning React, Python & Data Structures
+- Building projects to improve one step at a time.
 
 About Me:
 - 🎓 Engineering student passionate about software development
